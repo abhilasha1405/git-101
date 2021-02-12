@@ -2,6 +2,7 @@ style.css
 body {
 	margin: 0;
 	font-family: Helvetica;
+	background-color: #D23333;
 }
 #container{
 	display: flex;
